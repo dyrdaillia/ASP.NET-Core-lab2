@@ -1,0 +1,18 @@
+﻿<configuration>
+	<CompanyConfig>
+		<Companies>
+			<Company>
+				<Name>Microsoft</Name>
+				<Employees>150000</Employees>
+			</Company>
+			<Company>
+				<Name>Apple</Name>
+				<Employees>147000</Employees>
+			</Company>
+			<Company>
+				<Name>Google</Name>
+				<Employees>135000</Employees>
+			</Company>
+		</Companies>
+	</CompanyConfig>
+</configuration>
